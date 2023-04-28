@@ -908,7 +908,7 @@ a {
     .tabcontent__descr {
         width: 100%;
         right: 0;
-        top: 500px;
+        top: 550px;
         font-size: 16px;
         padding: 20px;
         text-align: center;
@@ -917,6 +917,9 @@ a {
     .offer__slider-counter {
         width: 100%;
         justify-content: center;
+    }
+    .preview__life {
+        display: none;
     }
     .preview {
         padding-bottom: 315px;
