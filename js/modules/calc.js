@@ -1,5 +1,4 @@
 function calc() {
-    // Calc
 
     const result = document.querySelector('.calculating__result span');
 
@@ -111,4 +110,4 @@ function calc() {
     getDynamicInfo('#age');
 }
 
-module.exports = calc;
+export default calc;
